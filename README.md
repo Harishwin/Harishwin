@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hk952777@gmail.com**
 
-- ⚡ Fun fact **While data analysis is always technical (and sometimes even a little bit repetitive), you can still have fun with it**
+- ⚡ Fun fact **As an AWS and DevOps enthusiast, I take pride in my commitment to staying at the forefront of innovation and setting high standards for myself in the world of cloud engineering.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
