@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://www.factsgram.com](https://www.factsgram.com)
 
-- 💬 Ask me about **Python, Ms Excel, Power BI, SQL, Tableau**
+- 💬 Ask me about **AWS, GIT, TERRAFORM, DOCKER, ANSIBLE**
 
 - 📫 How to reach me **hk952777@gmail.com**
 
