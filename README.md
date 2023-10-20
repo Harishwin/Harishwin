@@ -1,6 +1,6 @@
 ![logo](https://github.com/Harishwin/Harishwin/blob/main/Image_Tech_Job_Data_Analyst_Science_LandingPage%20(1).jpg)
 <h1 align="center">Hi 👋, I'm HARISH KSHIRSAGAR</h1>
-<h3 align="center">A passionate DATA ANALYST from India</h3>
+<h3 align="center">A passionate DEVOPS ENGINEER from India</h3>
 
 <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishwin&label=Profile%20views&color=0e75b6&style=flat" alt="harishwin" /> </p>
