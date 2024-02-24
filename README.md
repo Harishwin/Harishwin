@@ -1,4 +1,4 @@
-![MasterHead](https://www.technojobs.co.uk/info/sites/www.technojobs.co.uk/files/styles/article_image_large/public/large%20blog%20banner%20%28618%20%C3%97%20239px%29%20%282%29.png?itok=THL9ZDVp)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQGagrCYYMebtw/profile-displaybackgroundimage-shrink_350_1400/0/1708785001353?e=1714003200&v=beta&t=k00N_nnYgy25rOfil3tCKRfUwOiyZ-CvfOJrkbHdCPo)
 <h1 align="center">Hi 👋, I'm HARISH KSHIRSAGAR</h1>
 <h3 align="center">A passionate DEVOPS ENGINEER from Indiaa</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*A6Sl8DS_C6-mYf2KiqvtyA.gif">
