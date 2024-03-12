@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQGagrCYYMebtw/profile-displaybackgroundimage-shrink_350_1400/0/1708785001353?e=1714003200&v=beta&t=k00N_nnYgy25rOfil3tCKRfUwOiyZ-CvfOJrkbHdCPo)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQFtz5Cbmgo3WQ/profile-displaybackgroundimage-shrink_350_1400/0/1710087573902?e=1715817600&v=beta&t=jbfcKx-Qgi1fuqthTsloL0vT09lAYj-Gf3BuSGNMoOM)
 <h1 align="center">Hi 👋, I'm HARISH KSHIRSAGAR</h1>
 <h3 align="center">A passionate DEVOPS ENGINEER from Indiaa</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*A6Sl8DS_C6-mYf2KiqvtyA.gif">
